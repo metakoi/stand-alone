@@ -1,0 +1,30 @@
+:root {
+    /* Environment colors */
+    --color-water-filter: #e9f5f5;
+    --color-water-highlight: #ffffff;
+    --color-earth: #e5e5e5;
+    --color-rock-top: #ffffff;
+    --color-rock-side: #615455;
+    --color-sky: #dfeeed;
+    --color-rain: #ccd0cf;
+
+    /* Ambient color multipliers */
+    --color-ambient-sunny: #ffffff;
+    --color-ambient-rain: #e2e7ec;
+    --color-ambient-thunderstorm: #a4a9bb;
+
+    /* Plant colors */
+    --color-grass-a: #e7e8e4;
+    --color-grass-b: #cdd2ce;
+    --color-cattail-leaf: #c1c6c9;
+    --color-cattail-stalk: #a5a597;
+    --color-cattail-capsule: #ecebda;
+    --color-shrubbery-stalk: #828e8e;
+    --color-shrubbery-leaf: #959ca1;
+
+    /* Bug colors */
+    --color-bug-butterfly-yellow: #ffffff;
+    --color-bug-butterfly-yellow-edge: #c1d2c2;
+    --color-bug-butterfly-orange: #e5c358;
+    --color-bug-butterfly-orange-edge: #fab19f;
+}

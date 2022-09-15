@@ -1,0 +1,70 @@
+:root {
+    /* Environment colors */
+    --color-water-deep: #314462;
+    --color-water-shallow: #81e5e5;
+    --color-water-filter: #def6ea;
+    --color-water-highlight: #a9dbd1;
+    --color-earth: #D5C28E;
+    --color-rock-top: #6e5a5e;
+    --color-rock-side: #473537;
+    --color-sky: #bdd6e2;
+    --color-rain: #ccd0cf;
+
+    /* Ambient color multipliers */
+    --color-ambient-sunny: #fffdee;
+    --color-ambient-overcast: #f6f6f6;
+    --color-ambient-drizzle: #e9ecec;
+    --color-ambient-rain: #deeef6;
+    --color-ambient-thunderstorm: #9ea6bf;
+
+    /* Plant colors */
+    --color-grass-a: #97b54e;
+    --color-grass-b: #4b812e;
+    --color-cattail-leaf: #5e8136;
+    --color-cattail-stalk: #a09e7a;
+    --color-cattail-capsule: #eceaac;
+    --color-shrubbery-stalk: #5f7746;
+    --color-shrubbery-leaf: #426630;
+
+    /* Fish colors */
+    --color-fish-white: #e1e0c4;
+    --color-fish-black: #414345;
+    --color-fish-gold: #E4A746;
+    --color-fish-orange: #E56E42;
+    --color-fish-red: #db3030;
+    --color-fish-brown: #6e5a5e;
+    --color-fish-purple: #6d4160;
+    --color-fish-blue: #5f7d8c;
+    --color-fish-pink: #ec97a4;
+    --color-fish-darkblue: #415986;
+    --color-fish-lightpurple: #7c65cd;
+    --color-fish-teal: #4AB3B2;
+    --color-fish-green: #97b54e;
+    --color-fish-darkgreen: #4b812e;
+    --color-fish-lightbrown: #a98d86;
+    --color-fish-bordeaux: #5a0a11;
+    --color-fish-shade: #13232b;
+
+    /* Bug colors */
+    --color-bug-butterfly-yellow: #d7c89b;
+    --color-bug-butterfly-yellow-edge: #f6cda2;
+    --color-bug-butterfly-orange: #deb63b;
+    --color-bug-butterfly-orange-edge: #ff967c;
+    --color-bug-butterfly-blue: #bdd7f3;
+    --color-bug-butterfly-blue-edge: #87abdb;
+    --color-bug-butterfly-black: #6b7556;
+    --color-bug-butterfly-black-edge: #474747;
+    --color-bug-butterfly-thunder: #4f4e56;
+    --color-bug-butterfly-thunder-edge: #d64657;
+
+    /* Code colors */
+    --color-code-00: #FDD373;
+    --color-code-01: #EAA247;
+    --color-code-10: #CD6142;
+    --color-code-11: #DB3030;
+
+    /* GUI colors */
+    --color-preview-outer: #111827;
+    --color-preview-inner: #111827;
+    --color-white: #f6f6f6;
+}
